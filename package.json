@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-gulp",
+  "version": "1.0.0",
+  "description": "customizing bootstrap packages using gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexmhack/Bootstrap-Gulp.git"
+  },
+  "keywords": [
+    "gulp",
+    "bootstrap",
+    "material-bootstrap",
+    "customizing-package",
+    "small-project"
+  ],
+  "author": "Alexmhack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexmhack/Bootstrap-Gulp/issues"
+  },
+  "homepage": "https://github.com/Alexmhack/Bootstrap-Gulp#readme"
+}
