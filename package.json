@@ -22,5 +22,16 @@
   "bugs": {
     "url": "https://github.com/Alexmhack/Bootstrap-Gulp/issues"
   },
-  "homepage": "https://github.com/Alexmhack/Bootstrap-Gulp#readme"
+  "homepage": "https://github.com/Alexmhack/Bootstrap-Gulp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1"
+  }
 }
